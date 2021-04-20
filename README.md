@@ -5,6 +5,5 @@ Based on the excellent React Query Tutorial by "The Net Ninja" on his
 
 I've extended it a bit with a "Query-Cache-Plays" option to show the ResetQueries option in React Query. 
 
-In the future all my experiments will be done in this project. 
 
 
