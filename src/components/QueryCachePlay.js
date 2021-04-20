@@ -43,10 +43,6 @@ const QueryCachePlay = () => {
         setQstate(queryClient.getQueryState());
     }, [data, queryClient])
 
-    // const format_time = (ts) => {
-    //     const dateObject = new Date(ts);
-    //     return dateObject.toLocaleString();
-    // }
     console.log(qstate);
     return (
         <div>
